@@ -1,0 +1,69 @@
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\BanWave v1.exe
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\BanWave v1.deps.json
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\BanWave v1.runtimeconfig.json
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\BanWave v1.runtimeconfig.dev.json
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\BanWave v1.dll
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\ref\BanWave v1.dll
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\BanWave v1.pdb
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave_v1.MainForm.resources
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave v1.vbproj.GenerateResource.cache
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave v1.AssemblyInfoInputs.cache
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave v1.AssemblyInfo.vb
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave v1.vbproj.CoreCompileInputs.cache
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave v1.vbproj.CopyComplete
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave v1.dll
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\ref\BanWave v1.dll
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave v1.pdb
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave v1.genruntimeconfig.cache
+C:\Users\sisso\source\repos\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave v1.vbprojAssemblyReference.cache
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\BanWave v1.exe
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\BanWave v1.deps.json
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\BanWave v1.runtimeconfig.json
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\BanWave v1.runtimeconfig.dev.json
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\BanWave v1.dll
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\ref\BanWave v1.dll
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\BanWave v1.pdb
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\EntityFramework.dll
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave v1.vbprojAssemblyReference.cache
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave_v1.MainForm.resources
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave v1.vbproj.GenerateResource.cache
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave v1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave v1.AssemblyInfoInputs.cache
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave v1.AssemblyInfo.vb
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave v1.vbproj.CoreCompileInputs.cache
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave v1.vbproj.CopyComplete
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave v1.dll
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\ref\BanWave v1.dll
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave v1.pdb
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave v1.genruntimeconfig.cache
+D:\Projects\Programming\World of tanks\BanWave v1\BanWave v1\obj\Debug\net5.0-windows\BanWave_v1.Form2.resources
